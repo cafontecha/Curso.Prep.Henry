@@ -1,0 +1,37 @@
+
+Variables:
+Las variables son campos vacios que se rellenan con datos para su futura utilización; Los podemos llenar dependiendo de la manera como mas conveniente sea.
+Lo podemos comparar con un conjunto de estantes. Donde tenemos muchos cajones, los que vendrian siendo los campos vacios de las variables adicional a esto, tendriamos el contenido para estps cajones, el cual podemos cambiar y acomodar a nuestra conveniencia dependiendo de la necesidad en cada caso.
+
+Strings:
+Los Strings o cadenas de texto se relacionan con lo que deseamos que nuestra computadora entienda como una palabra "hablada". Para esto, debemos envolver nuestra cadena de texto entre comillas simples ('') o comillas dobles ("").
+
+Funciones (argumentos, `return`)
+Las funciones son fragmentos que se pueden reutilizar dependiendo de la necesidad.
+Esta recibe argumentos o asignaciones a las tareas que se realizan dentro de ella y devuelve una tarea hecha.
+Por ejemplo, si creamos una funcion cepillar los dientes; tendriamos como argumentos el nombre de la persona que lo hara, dentro de nuestra funcion, tendriamos el conjunto de instrucciones que se haran para al final devolver a la presona con los dientes limpios.
+funcion cepillarDientes(persona){
+    persona toma cepillo;
+    persona aplica crema dental;
+    persona limpia sus dientes;
+    persona aplica enjuague;
+    persona tiene los dientes limpios;
+
+    return persona;
+}
+
+Declaraciones `if`
+La declaración if, es una condicional que se cumple si...
+una manera sencilla para explicarlo es al momento de realizar una compra; donde SI, tengo dinero, puedo comprar, SI NO, no puedo comprar
+if(tengo dinero){
+    puedo comprar;
+} si no{
+    no puedo comprar;
+}
+
+
+Valores booleanos (`true`, `false`)
+los valores booleanos o switches se utilizan para activar o desactivar propiedades, lo podemos asemejar con un interruptor de luz.
+Cuando esta apagada la luz, nuestro interruptor tiene un valor de false o 0
+Cuando lo encendemos, el valor de nuestro interruptor pasa a ser verdadero o 1
+Teniendo como resultado el que se encienda o no la luz.
